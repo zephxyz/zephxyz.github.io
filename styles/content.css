@@ -141,7 +141,10 @@ h2{
     color: white;
     text-align: center;
     margin-top: 50px;
-    padding: 250px;
+    padding: 25px;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    
     
     
 }

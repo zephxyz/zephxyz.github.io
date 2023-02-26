@@ -6,7 +6,7 @@
 * {
     font-family: "Raleway";
     box-sizing: border-box;
-    
+    overflow-x: clip;
     
   }
 
